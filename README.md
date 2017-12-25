@@ -1,2 +1,0 @@
-# extint
-Extraterrestrial Intruders
